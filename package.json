@@ -1,6 +1,6 @@
 {
-  "name": "prettier-standard",
-  "version": "8.0.1",
+  "name": "@viztor/prettier-standard",
+  "version": "8.1.1",
   "description": "Prettier and standard brought together!",
   "main": "src/no-main.js",
   "bin": {
@@ -11,9 +11,9 @@
     "eslint",
     "standard"
   ],
-  "author": "Adam Stankiewicz <sheerun@sher.pl>",
+  "author": "Adam Stankiewicz <sheerun@sher.pl> viztor<viztor@outlook.com>",
   "license": "MIT",
-  "repository": "sheerun/prettier-standard",
+  "repository": "viztor/prettier-standard",
   "dependencies": {
     "@sheerun/eslint-config-standard": "^10.2.1",
     "babel-eslint": ">=7.2.3",
